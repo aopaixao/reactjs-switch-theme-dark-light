@@ -1,0 +1,35 @@
+.cadastro-opitions{
+  width: 100%;
+}
+
+.title-cadastro-options{
+  display: block;
+  position: relative;
+  color: #00929D;
+  font-style: italic;
+  font-size: 37px;
+  top: 200px;
+  text-align: center;
+}
+
+.grup-button-cadastro-options{
+  text-align: center;
+
+}
+
+.bn20 {
+  font-family: lato,sans-serif;
+  font-weight: bold;
+  font-size: 1em;
+  letter-spacing: 0.1em;
+  text-decoration: none;
+  color: #00929D;
+  display: inline-block;
+  padding: 5px 20px 5px 20px;
+  position: relative;
+  border: 3px solid #00929D;
+  border-radius: 20px;
+  min-width: 10px;
+  top: 260px;
+  margin: 5px;
+}

@@ -1,0 +1,105 @@
+.title-iso{
+  margin-top: 120px;
+  color: #00929D;
+  font-style: italic;
+  font-size: 37px;
+  flex-direction: row;
+  text-align: center;
+  position: relative; 
+
+}
+
+.formulario-iso{
+  display: flex;
+  flex-direction: column;
+  margin-left: 50px;
+  
+}  
+.label-iso{
+  font-weight:700;
+  font-size: 24px;
+  color:#00929D;
+}
+
+.input-nome-iso{
+  border-radius: 5px;
+  border-color: #00929D;
+  color: #00929D;
+  width: 200px; 
+}
+
+.dark-mode .input-nome-iso{
+  background-color: #1a1919;
+}
+
+.button-adicionar{
+  width: 100px;
+  height: 40px;
+  border-radius: 15px;
+  border: 0;
+  background-color: #00929D;
+  color: white;
+  display: flex;
+}
+
+.button-consultar{
+  width: 100px;
+  height: 40px;
+  border-radius: 15px;
+  border:0;
+  background-color: #00929D;
+  color: white;
+  display: flex;
+}
+
+.button-cancelar{
+  width: 100px;
+  height: 40px;
+  border-radius: 15px;
+  border: 0;
+  background-color: #305D7A;
+  color: white;
+  display: flex;
+}
+
+.button-add{
+  width: 100px;
+  height: 40px;
+  border-radius: 15px;
+  border: 0;
+  background-color: #305D7A;
+  color: white;
+  display: flex; 
+}
+
+.button-salvar{
+  width: 100px;
+  height: 40px;
+  border-radius: 15px;
+  border: 0;
+  background-color: #00929D;
+  color: white;
+  display: flex; 
+}
+
+.editar-iso{
+  width: 25px;
+  height: 25px;
+  border-radius:20px;
+  background-color: #00929D;
+}
+
+.excluir-iso{
+  width: 25px;
+  height: 25px;
+  border-radius:20px;
+  background-color: red;
+}
+
+.fundo-descricao{
+  width: 350px;
+  border-color: #00929D;
+}
+.dark-mode .fundo-descricao{
+  background-color: #1a1919;
+}
